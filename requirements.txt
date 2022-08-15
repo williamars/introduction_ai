@@ -1,0 +1,8 @@
+mkdocs-material
+mkdocs-git-revision-date-localized-plugin
+markdown
+pymdown-extensions
+tabulate
+requests
+pandas
+openpyxl
