@@ -11,11 +11,12 @@ extra_css:
 
 nav:
   - 'Home': 'index.md'
-  - 'Plano de Aula': 'plano_aula.md'
   - 'Ementa': 'ementa.md'
+  - 'Plano de Aula': 'plano_de_aulas.md'
+  - 'Crtitérios para Aprovação': 'avaliacao.md'
   - 'Aulas':
-    - 'aulas/01_introducao_ia/introducao_ia.md'
-    - 'aulas/02_agentes_autonomos/agentes_autonomos.md'
+    - 'aulas/01_introducao_ia/index.md'
+    - 'aulas/02_agentes_autonomos/index.md'
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.0.0/js-yaml.min.js
