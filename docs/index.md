@@ -2,6 +2,7 @@
 
 1. [Ementa da disciplina.](ementa.md)
 2. [Plano aula-a-aula da disciplina.](plano_aula.md)
+3. [Critérios de avaliação.](avaliacao.md)
 
 ## Horário das aulas
 
