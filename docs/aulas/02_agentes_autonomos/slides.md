@@ -1,9 +1,9 @@
 ---
 title: Agente Autônomo
-subtitle: Fevereiro de 2022
+subtitle: Agosto de 2022
 author: Fabrício Barth 
 institute: Agentes Autônomos e Aprendizagem por Reforço
-date: 02/2022
+date: 08/2022
 theme: insper
 aspectratio: 169
 ...
