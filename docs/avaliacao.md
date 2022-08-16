@@ -4,14 +4,18 @@ Os objetivos de aprendizagem desta disciplina serão avaliados através das segu
 
 | Atividade | Peso |
 | ----------| ----------|
-| Exercícios introdutórios sobre agentes autônomos | 10% |
-| Desenvolvimento de um agente autônomo que atua em um ambiente discreto, determinístico, síncrono, simulado e *single agent* | 20% |
-| Avaliação intermediária | 20% | 
-| Implementação de um agente autônomo que deverá atuar em um ambiente competitivo | 10% | 
-| Implementação de agentes autônomos usando Aprendizagem por Reforço | 20% | 
-| Avaliação Final | 20% | 
+| Desenvolvimento de agentes autônomos (5 entregas) que atuam em ambientes discretos, determinísticos, síncronos, simulados e *single agent* | 25% |
+| Implementação de um agente autônomo (1 entrega) que deverá atuar em um ambiente competitivo | 25% | 
+| Implementação de agentes autônomos (2 entregas) que atuam em ambientes discretos (ou contínuos), não determinísticos, síncronos, simulados e *single or multi agent* | 25% | 
+| Implementação de uma solução (1 entrega) para um problema mais complexo que requer uma ou mais técnicas de IA | 25% | 
 
-O critério para aprovação é nota final superior ou igual a cinco (5) e 75% de frequência mínima nas aulas. 
+O critério para aprovação é:
+
+* nota final superior ou igual a cinco (5);
+* ter feito e entregue no mínimo 7 exercícios dos 9 propostos;
+* e 75% de frequência mínima nas aulas. 
+
+## Conversão de conceito para valor numérico
 
 O resultado de algumas avaliações poderá adotar conceitos (A+, B,..., I) ao invés de um valor numérico. Para estes casos será utilizada a seguinte tabela de conversão:
 
